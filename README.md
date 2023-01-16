@@ -42,13 +42,4 @@ My goal is to delve further into web development, although I am also interested 
 
 To meet my goals I have learned to use Javascript, React, Redux, Node.js, Express, Postgres and MongoDB. Along the way I have also had contact with other languages such as Python, C++ and SQL Server, and going back further into the past with Pascal which were my first lines of code in that language. Solidity is also among my languages to learn, with which I hope to code my first smart contracts.
 
-> <sub>Javascript</sub>
-> <sub>React</sub>
-> <sub>Redux</sub>
-> <sub>Node.js</sub>
-> <sub>Express</sub>
-> <sub>Postgres</sub>
-> <sub>MongoDB</sub>
-> <sub>C++</sub>
-> <sub>Python</sub>
-> <sub>SQL Server</sub>
+> <sub>Javascript, </sub> <sub>React, </sub> <sub>Redux, </sub> <sub>Node.js, </sub> <sub>Express, </sub> <sub>Postgres, </sub> <sub>MongoDB, </sub> <sub>C++, </sub> <sub>Python, </sub> <sub>SQL Server</sub>
