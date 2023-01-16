@@ -1,4 +1,4 @@
-# profile
+# Profile
 User profile and short description about me
 
 Spanish:
