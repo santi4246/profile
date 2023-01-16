@@ -20,16 +20,7 @@ Mi objetivo es profundizar aún más en el desarrollo web, aunque también me in
 
 Para cumplir con mis objetivos he aprendido a utilizar Javascript, React, Redux, Node.js, Express, Postgres y MongoDB. Por el camino también he tenido contacto con otros lenguajes como Python, C++ y SQL Server, y remontando más al pasado con Pascal que fueron mis primeras líneas de código en ese lenguaje. También está entre mis lenguajes a aprender Solidity, con el cual espero codificar mis primeros smart contracts.
 
-> <sub>Javascript</sub>
-> <sub>React</sub>
-> <sub>Redux</sub>
-> <sub>Node.js</sub>
-> <sub>Express</sub>
-> <sub>Postgres</sub>
-> <sub>MongoDB</sub>
-> <sub>C++</sub>
-> <sub>Python</sub>
-> <sub>SQL Server</sub>
+> <sub>Javascript, </sub> <sub>React, </sub> <sub>Redux, </sub> <sub>Node.js, </sub> <sub>Express, </sub> <sub>Postgres, </sub> <sub>MongoDB, </sub> <sub>C++, </sub> <sub>Python, </sub> <sub>SQL Server</sub>
 
 ## English:
 
