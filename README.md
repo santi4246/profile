@@ -1,4 +1,4 @@
-![profile-picture](https://i.imgur.com/ykoCNJn.jpeg)
+![profile-picture](https://i.imgur.com/8o1BZnV.jpg)
 
 # Profile
 User profile and short description about me
