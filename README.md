@@ -27,7 +27,7 @@ App videogames: [link](https://videogames-indol.vercel.app/)
 App Snykers: [link](https://snykers.vercel.app/)
 
 Mis datos de contacto: 
-> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)
+> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/) +54 3434567583
 
 ## English:
 
@@ -54,3 +54,7 @@ To meet my goals I have learned to use Javascript, React, Redux, Node.js, Expres
 You can find 2 of my recent projects in the following links:
 App videogames: [link](https://videogames-indol.vercel.app/)
 App Snykers: [link](https://snykers.vercel.app/)
+
+My contact details are:
+
+> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/) +54 3434567583
