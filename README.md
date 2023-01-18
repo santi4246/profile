@@ -27,7 +27,10 @@ App videogames: [link](https://videogames-indol.vercel.app/)
 App Snykers: [link](https://snykers.vercel.app/)
 
 Mis datos de contacto: 
-> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/) +54 3434567583
+
++ **santiago_pna@hotmail.com** 
++ **[Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)** 
++ **+54 3434567583**
 
 ## English:
 
@@ -57,4 +60,6 @@ App Snykers: [link](https://snykers.vercel.app/)
 
 My contact details are:
 
-> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/) +54 3434567583
++ **santiago_pna@hotmail.com** 
++ **[Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)** 
++ **+54 3434567583**
