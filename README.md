@@ -26,6 +26,9 @@ Puedes encontrar 2 de mis recientes proyectos en los siguientes enlaces:
 App videogames: [link](https://videogames-indol.vercel.app/)
 App Snykers: [link](https://snykers.vercel.app/)
 
+Mis datos de contacto: 
+> santiago_pna@hotmail.com [Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)
+
 ## English:
 
 Hello, my name is Santiago L. Romero also known as @santi4246 here on github.
