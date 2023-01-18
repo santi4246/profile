@@ -31,6 +31,7 @@ Mis datos de contacto:
 + **santiago_pna@hotmail.com** 
 + **[Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)** 
 + **+54 3434567583**
++ https://twitter.com/santi4246
 
 ## English:
 
@@ -63,3 +64,4 @@ My contact details are:
 + **santiago_pna@hotmail.com** 
 + **[Linkedin](https://www.linkedin.com/in/santiago-romero-santi4246/)** 
 + **+54 3434567583**
++ https://twitter.com/santi4246
