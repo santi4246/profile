@@ -41,7 +41,7 @@ Hello, my name is Santiago L. Romero also known as @santi4246 here on github.
 
 I am a Full Stack programmer and I am proficient in technologies such as Javascript, React, Redux, Node.js, Express, and related technologies in the sector. I have been studying since I was 18 years old between different academies and in a self-taught way.
 
-**What I do?**
+**What can I do?**
 
 Currently I have just graduated from the SoyHenry Bootcamp with projects in my portfolio that consist of applications to display data from an API or more recently for the sale of sneakers with their corresponding user registration and payment gateway.
 
