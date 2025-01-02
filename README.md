@@ -10,15 +10,15 @@ Soy programador Full Stack y domino tecnologías como Javascript, React, Redux, 
 
 **¿Qué hago?**
 
-Actualmente acabo de recibirme del Bootcamp  de SoyHenry con proyectos en mi portafolio que consisten en aplicaciones para mostrar datos desde una API o más recientemente para la comercialización de zapatillas con su correspondiente registro de usuarios y pasarela de pagos. 
+Actualmente me desempeño como desarrollador Full Stack, con el stack de tecnologías ASP.NET y un pequeño aporte en Python y contenedores Docker. La empresa para la cual presto servicios se enfoca en la prevención vial y ofrece Software como servicio (SAAS).
 
 **¿Qué objetivos tengo?**
 
-Mi objetivo es profundizar aún más en el desarrollo web, aunque también me interesa Blockchain y criptomonedas. Sé que el camino es largo y muy cambiante, pero con paciencia y dedicación puedo dominar las tecnologías que más me interesan y aportar mi granito de arena para una web más descentralizada.
+Mi objetivo es profundizar aún más en el desarrollo web, y dominar otras tecnologías que me permitan contar con herramientas mas sofisticadas y ofrecer mejores soluciones. Durante mi tiempo libre incursiono en otros campos como Blockchain y Dropshipping.
 
 **¿Qué tecnologías utilizo?**
 
-Para cumplir con mis objetivos he aprendido a utilizar Javascript, React, Redux, Node.js, Express, Postgres y MongoDB. Por el camino también he tenido contacto con otros lenguajes como Python, C++ y SQL Server, y remontando más al pasado con Pascal que fueron mis primeras líneas de código en ese lenguaje. También está entre mis lenguajes a aprender Solidity, con el cual espero codificar mis primeros smart contracts.
+Para cumplir con mis objetivos he aprendido a utilizar Javascript, React, Redux, Node.js, Express, Postgres y MongoDB. Por el camino también he tenido contacto con otros lenguajes como Python, C++ y SQL Server, y remontando más al pasado con Pascal que fueron mis primeras líneas de código en ese lenguaje. Ahora mismo por mi desempeño en la empresa en la cual presto servicios he incorporado C# y ASP.NET al conjunto de tecnologías que utilizo en el día a día.
 
 > <sub>Javascript, </sub> <sub>React, </sub> <sub>Redux, </sub> <sub>Node.js, </sub> <sub>Express, </sub> <sub>Postgres, </sub> <sub>MongoDB, </sub> <sub>C++, </sub> <sub>Python, </sub> <sub>SQL Server, </sub> </sub> <sub>Postgres SQL, </sub> </sub> <sub>GIT, </sub> </sub> <sub>Microsoft Access</sub>
 
@@ -43,15 +43,15 @@ I am a Full Stack programmer and I am proficient in technologies such as Javascr
 
 **What can I do?**
 
-Currently I have just graduated from the SoyHenry Bootcamp with projects in my portfolio that consist of applications to display data from an API or more recently for the sale of sneakers with their corresponding user registration and payment gateway.
+Currently, I work as a Full Stack developer, with a technology stack of ASP.NET and a small contribution in Python and Docker containers. The company I provide services for focuses on road safety prevention and offers Software as a Service (SAAS).
 
 **What goals do I have?**
 
-My goal is to delve further into web development, although I am also interested in Blockchain and cryptocurrencies. I know that the road is long and very changeable, but with patience and dedication I can master the technologies that interest me the most and contribute my bit for a more decentralized web.
+My goal is to dive even deeper into web development and master other technologies that allow me to have more sophisticated tools and offer better solutions. In my free time, I explore other fields such as Blockchain and Dropshipping.
 
 **What technologies do I use?**
 
-To meet my goals I have learned to use Javascript, React, Redux, Node.js, Express, Postgres and MongoDB. Along the way I have also had contact with other languages such as Python, C++ and SQL Server, and going back further into the past with Pascal which were my first lines of code in that language. Solidity is also among my languages to learn, with which I hope to code my first smart contracts.
+To achieve my goals, I have learned to use Javascript, React, Redux, Node.js, Express, Postgres, and MongoDB. Along the way, I have also worked with other languages such as Python, C++, and SQL Server, and going further back, Pascal, which was where I wrote my first lines of code in that language. Currently, due to my work at the company I provide services for, I have incorporated C# and ASP.NET into the set of technologies I use on a daily basis.
 
 > <sub>Javascript, </sub> <sub>React, </sub> <sub>Redux, </sub> <sub>Node.js, </sub> <sub>Express, </sub> <sub>Postgres, </sub> <sub>MongoDB, </sub> <sub>C++, </sub> <sub>Python, </sub> <sub>SQL Server, </sub> </sub> <sub>Postgres SQL, </sub> </sub> <sub>GIT, </sub> </sub> <sub>Microsoft Access</sub>
 
